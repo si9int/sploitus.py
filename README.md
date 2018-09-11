@@ -7,3 +7,4 @@ I will update the script on the next weekend to include:
 - [ ] Pagination
 - [ ] Default sorting: date
 - [ ] Sorting as additional parameter
+- [ ] Search for tools
